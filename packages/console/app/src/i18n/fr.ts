@@ -81,7 +81,7 @@ export const dict = {
   "error.reloadTriggerMin": "Le seuil de déclenchement doit être d'au moins {{amount}} $",
   "auth.callback.error.codeMissing": "Aucun code d'autorisation trouvé.",
 
-  "home.title": "OpenCode | L'agent de code IA open source",
+  "home.title": "Atos | L'agent de code IA open source",
 
   "temp.title": "OpenCode | Agent de code IA conçu pour le terminal",
   "temp.hero.title": "L'agent de code IA conçu pour le terminal",

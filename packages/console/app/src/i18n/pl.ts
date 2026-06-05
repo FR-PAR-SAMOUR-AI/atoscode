@@ -82,7 +82,7 @@ export const dict = {
 
   "app.meta.description": "OpenCode - Otwartoźródłowy agent programistyczny.",
 
-  "home.title": "OpenCode | Open source'owy agent AI do kodowania",
+  "home.title": "Atos | Open source'owy agent AI do kodowania",
 
   "temp.title": "opencode | Agent AI do kodowania zbudowany dla terminala",
   "temp.hero.title": "Agent AI do kodowania zbudowany dla terminala",

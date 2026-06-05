@@ -83,7 +83,7 @@ export const dict = {
 
   "app.meta.description": "OpenCode - Açık kaynaklı kodlama ajanı.",
 
-  "home.title": "OpenCode | Açık kaynaklı yapay zeka kodlama ajanı",
+  "home.title": "Atos | Açık kaynaklı yapay zeka kodlama ajanı",
 
   "temp.title": "opencode | Terminal için geliştirilmiş yapay zeka kodlama ajanı",
   "temp.hero.title": "Terminal için geliştirilmiş yapay zeka kodlama ajanı",

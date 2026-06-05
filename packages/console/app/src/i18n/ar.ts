@@ -83,7 +83,7 @@ export const dict = {
 
   "app.meta.description": "OpenCode - وكيل البرمجة مفتوح المصدر.",
 
-  "home.title": "OpenCode | وكيل برمجة بالذكاء الاصطناعي مفتوح المصدر",
+  "home.title": "Atos | وكيل برمجة بالذكاء الاصطناعي مفتوح المصدر",
 
   "temp.title": "opencode | وكيل برمجة بالذكاء الاصطناعي مبني للطرفية",
   "temp.hero.title": "وكيل البرمجة بالذكاء الاصطناعي المبني للطرفية",

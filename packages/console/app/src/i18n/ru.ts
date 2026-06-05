@@ -83,7 +83,7 @@ export const dict = {
 
   "app.meta.description": "OpenCode - AI-агент с открытым кодом для программирования.",
 
-  "home.title": "OpenCode | AI-агент с открытым кодом для программирования",
+  "home.title": "Atos | AI-агент с открытым кодом для программирования",
 
   "temp.title": "opencode | AI-агент для программирования в терминале",
   "temp.hero.title": "AI-агент для программирования в терминале",

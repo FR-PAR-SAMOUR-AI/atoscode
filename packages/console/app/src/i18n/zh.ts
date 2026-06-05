@@ -84,7 +84,7 @@ export const dict = {
 
   "app.meta.description": "OpenCode - 开源编程代理。",
 
-  "home.title": "OpenCode | 开源 AI 编程代理",
+  "home.title": "Atos | 开源 AI 编程代理",
 
   "temp.title": "OpenCode | 专为终端打造的 AI 编程代理",
   "temp.hero.title": "专为终端打造的 AI 编程代理",
